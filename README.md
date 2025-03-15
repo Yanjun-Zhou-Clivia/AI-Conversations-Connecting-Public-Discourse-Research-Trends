@@ -1,7 +1,8 @@
 # 📡 AI Conversations: Connecting Public Discourse & Research Trends
 
-code: [Reddit vs Youtube on AI Technology Discussion]()
-[Analyzing AI Discussions Across Academic (arXiv) & Social Platforms (Reddit & Youtube)]()
+code: [Reddit vs Youtube on AI Technology Discussion](https://github.com/Yanjun-Zhou-Clivia/AI-Conversations-Connecting-Public-Discourse-Research-Trends/blob/main/Reddit%20vs%20Youtube%20on%20AI%20Technology%20Discussion.ipynb)
+
+[Analyzing AI Discussions Across Academic (arXiv) & Social Platforms (Reddit & Youtube)](https://github.com/Yanjun-Zhou-Clivia/AI-Conversations-Connecting-Public-Discourse-Research-Trends/blob/main/Analyzing%20AI%20Discussions%20Across%20Academic%20(arXiv)%20%26%20Social%20Platforms%20(Reddit%20%26%20Youtube).ipynb)
 
 ## 📌 Project Overview
 This project analyzes **AI discussions across academic and social platforms** (arXiv, Wikipedia, Reddit, and YouTube) to compare how public discourse aligns with cutting-edge AI research. Using **web scraping, natural language processing (NLP), trend analysis, and machine learning**, we identify key AI topics, engagement patterns, and research adoption trends.
